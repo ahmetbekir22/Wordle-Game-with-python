@@ -13,34 +13,40 @@ Try1 (NEVER):
 3. letter does not exist.
 4. letter exists but located in wrong position.
 5. letter does not exist.
+
 Try2 (PAUSE):
 1. letter does not exist.
 2. letter exists but located in wrong position.
 3. letter does not exist.
 4. letter does not exist.
 5. letter exists but located in wrong position.
+
 Try3 (SAUCE):
 1. letter does not exist.
 2. letter exists but located in wrong position.
 3. letter does not exist.
 4. letter does not exist.
 5. letter exists but located in wrong position.
+
 Try4 (BRINE):
 1. letter does not exist.
 2. letter does not exist.
 3. letter exists but located in wrong position.
 4. letter does not exist.
 5. letter exists but located in wrong position.
+
 Try5 (PRIME):
 1. letter does not exist.
 2. letter does not exist.
 3. letter exists but located in wrong position.
 4. letter does not exist.
 5. letter exists but located in wrong position.
+
 Try6 (PRICE):
 1. letter does not exist.
 2. letter does not exist.
 3. letter exists but located in wrong position.
 4. letter does not exist.
 5. letter exists but located in wrong position.
+
 You are failed!
